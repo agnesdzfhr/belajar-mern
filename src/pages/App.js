@@ -1,11 +1,11 @@
 
 import React from 'react';
 import './App.css';
-import {Switch } from '../config';
+import {Routes } from '../config';
 
 function App() {
   return (
-    <Switch/>
+    <Routes/>
   );
 }
 
